@@ -21,6 +21,8 @@ F1dash.net brings the excitement of Formula 1 races directly to you with real-ti
 
 At F1dash.net, we are committed to providing fans with the most comprehensive and immersive Formula 1 experience. From live race data to in-depth news, we cover every angle of the world’s most exhilarating motorsport.
 
+---
+
 ### Note
 
 - We are a public fork of [Monaco](https://github.com/tdjsnelling/monaco) created by [tdjsnelling](https://github.com/tdjsnelling) you can find our public branch here [monaco-f1dash](https://github.com/F1Dash/monaco-F1Dash/tree/f1dash.net)
