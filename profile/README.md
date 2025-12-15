@@ -1,32 +1,26 @@
-# Welcome to F1dash.net
+# F1Dash
 
-🏁 **F1dash.net**: Your Premier Live Timing Dashboard for Formula 1
+**Real-time Formula 1 Live Timing Dashboard**
 
-## About F1dash.net
+## About
 
-F1dash.net brings the excitement of Formula 1 races directly to you with real-time updates, comprehensive coverage of upcoming and current F1 events, and detailed results from the latest races.
+F1Dash provides Formula 1 fans with a comprehensive live timing and telemetry dashboard featuring real-time race data, interactive track maps, team radio with AI transcription, and detailed analytics.
 
-## Our Technologies
+## Live Site
 
-- **Live Timing Dashboard**: Powered by [Monaco](https://github.com/tdjsnelling/monaco), our dashboard offers an immersive and real-time F1 racing experience.
-- **Data APIs**: We use [Fast-F1](https://github.com/theOehrly/Fast-F1) and [Ergast API](https://ergast.com/mrd/) for accurate and detailed race data.
-- **F1 News**: Stay updated with the latest in Formula 1 through our integration with [Autosport](https://www.autosport.com/f1/news/).
+**[f1dash.net](https://f1dash.net)**
 
-## Stay Informed and Engaged
+## Features
 
-- 🐦 Twitter: Follow us on Twitter [@OfficialF1Dash](https://twitter.com/OfficialF1Dash) for live updates and news.
-- 👥 Facebook: Join our community on [F1Dash](https://www.facebook.com/f1dashnet) to connect with fellow F1 enthusiasts.
+- **Live Timing** - Real-time driver positions, gaps, sector times, and tire data
+- **Interactive Maps** - 2D and 3D track visualization with live driver positions
+- **Team Radio** - Audio playback with AI-powered transcription
+- **Race Control** - Live flags, incidents, and penalty notifications
+- **Weather Radar** - Real-time precipitation radar and forecasts
+- **Session Replay** - Watch historical sessions with full timing data
+- **Driver Profiles** - Statistics and career information
+- **Championship Standings** - Live constructor and driver standings
 
-## Experience the Thrill of F1
+## Disclaimer
 
-At F1dash.net, we are committed to providing fans with the most comprehensive and immersive Formula 1 experience. From live race data to in-depth news, we cover every angle of the world’s most exhilarating motorsport.
-
----
-
-### Note
-
-- We are a public fork of [Monaco](https://github.com/tdjsnelling/monaco) created by [tdjsnelling](https://github.com/tdjsnelling) you can find our public branch here [monaco-f1dash](https://github.com/F1Dash/monaco-F1Dash/tree/f1dash.net)
-
----
-
-🏎️💨 **F1dash.net**: Feel the Pulse of Formula 1!
+This is an unofficial fan project. F1Dash is not affiliated with Formula 1, FIA, or any F1 teams. Formula 1, F1, and related marks are trademarks of Formula One Licensing BV.
